@@ -4,10 +4,10 @@ Building off of prior projects, this is a multimodal approach to using recursive
 
 ##  Example Stories Generated
 
-![The Exile Archive](https://github.com/cas1m1r/MythMachina/blob/main/myth_assets_TheExileArchive_06202025_221725/TheExileArchive.html)
+![The Exile Archive](https://cas1m1r.github.io/MythMachina/myth_assets_TheExileArchive_06202025_221725)
 
 
-![The Book That Writes You](https://github.com/cas1m1r/MythMachina/blob/main/myth_assets_TheBookThatWritesYou_06202025_191144/index.html)
+![The Book That Writes You](https://github.com/cas1m1r/MythMachina/myth_assets_TheBookThatWritesYou_06202025_191144)
 
 
-![The Clock That Runs Backwards](https://github.com/cas1m1r/MythMachina/blob/main/myth_assets_TheClockThatRunsBackward_06212025_150308/TheClockThatRunsBackward.html)
+![The Clock That Runs Backwards](https://github.com/cas1m1r/MythMachina/myth_assets_TheClockThatRunsBackward_06212025_150308)
