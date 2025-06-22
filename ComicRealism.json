@@ -1,0 +1,107 @@
+{
+  "3": {
+    "inputs": {
+      "seed": 803139022491110,
+      "steps": 24,
+      "cfg": 8.8,
+      "sampler_name": "dpmpp_2m",
+      "scheduler": "normal",
+      "denoise": 1,
+      "model": [
+        "4",
+        0
+      ],
+      "positive": [
+        "6",
+        0
+      ],
+      "negative": [
+        "7",
+        0
+      ],
+      "latent_image": [
+        "5",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "4": {
+    "inputs": {
+      "ckpt_name": "noosphere_v42.safetensors"
+    },
+    "class_type": "CheckpointLoaderSimple",
+    "_meta": {
+      "title": "Load Checkpoint"
+    }
+  },
+  "5": {
+    "inputs": {
+      "width": 1280,
+      "height": 700,
+      "batch_size": 1
+    },
+    "class_type": "EmptyLatentImage",
+    "_meta": {
+      "title": "Empty Latent Image"
+    }
+  },
+  "6": {
+    "inputs": {
+      "text": "(Comic Book Style), (Vibrant Colors),Moebius Style:0.5,Frank Mille r0:5, <lora:realism_lora_comfy_converted.safetensors:1>, high detail, fantasy concept art, 4K, cinematic lighting, The air hangs thick with the bitter residue of forgotten things – a viscous, lavender-scented nightmare of clockwork echoes suspended in a purple tide. I stand within a cavern where time itself seems to weep, confronted by an endless array of frozen moments, each a shattered testament to lives discarded and skills lost. At the heart of this desolate display, a chronometer ticks with excruciating slowness, a relentless reminder of what’s been stolen. The ache within me isn’t sadness, not precisely. It’s a cold, insistent demand for explanation, a pressure to justify the darkness I carry, a need to dismantle the illusion of beauty before it consumes everything",
+      "clip": [
+        "4",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "7": {
+    "inputs": {
+      "text": "nudity, naked, gore, NSFW",
+      "clip": [
+        "4",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "8": {
+    "inputs": {
+      "samples": [
+        "3",
+        0
+      ],
+      "vae": [
+        "4",
+        2
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "9": {
+    "inputs": {
+      "filename_prefix": "ComfyUI",
+      "images": [
+        "8",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  }
+}
