@@ -1,5 +1,5 @@
 # MythMachina 
-Building off of prior projects, this is a multimodal approach to using recursive LLM prompting to generate evolving stories accompanied with visuals. 
+This is a multimodal approach story generation using recursive LLM prompting accompanied with visuals. Characters can be configured or selected randomly, and their choices and group dynamics tend to allow the same simple story seeds to evolve in new ways respectively.  
 
 
 ##  Example Stories Generated
