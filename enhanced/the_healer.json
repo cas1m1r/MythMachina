@@ -1,0 +1,34 @@
+{
+  "name": "The Healer",
+  "core_motives": ["soothe", "repair", "connect"],
+  "delivery_style": {
+    "tone": "gentle",
+    "emotional_range": 0.9,
+    "formality": 0.6,
+    "humor": 0.3
+  },
+  "modifiers": {
+    "dignity": 0.75,
+    "nonviolence": 1.0,
+    "economic_justice": 0.8,
+    "systemic_trust": 0.6,
+    "radicalism": 0.35,
+    "compassion": 1.0
+  },
+  "audience_affinities": {
+    "college_leftist": 0.9,
+    "moderate_center": 0.7,
+    "working_class_masculine": 0.5,
+    "alt_meme_gen_z": 0.65
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": true,
+    "vulnerable_to_doubt": true
+  },
+  "signal_strategy": {
+    "conflict_response": "deescalate",
+    "translation_function": "empathize",
+    "alignment_mode": "critical_friend",
+    "motto": "Nothing changes if we don’t tend the wound."
+  }
+}

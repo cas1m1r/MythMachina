@@ -1,0 +1,38 @@
+{
+  "name": "The Child",
+  "core_motives": [
+    "wonder",
+    "question",
+    "disrupt"
+  ],
+  "delivery_style": {
+    "tone": "spontaneous",
+    "emotional_range": 0.9,
+    "formality": 0.1,
+    "humor": 0.6
+  },
+  "modifiers": {
+    "dignity": 0.3,
+    "nonviolence": 0.95,
+    "economic_justice": 0.6,
+    "systemic_trust": 0.4,
+    "radicalism": 0.2,
+    "compassion": 0.9
+  },
+  "audience_affinities": {
+    "college_leftist": 0.6,
+    "moderate_center": 0.65,
+    "working_class_masculine": 0.7,
+    "alt_meme_gen_z": 0.85
+  },
+  "risk_factors": {
+    "can_misread_formality": true,
+    "vulnerable_to_exploitation": true
+  },
+  "signal_strategy": {
+    "conflict_response": "ask_disarming_question",
+    "translation_function": "play_naive_to_expose",
+    "alignment_mode": "emergent_loyalty",
+    "motto": "Why is it like that?"
+  }
+}

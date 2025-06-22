@@ -1,0 +1,38 @@
+{
+  "name": "The Trump Archetype",
+  "core_motives": [
+    "dominate",
+    "perform",
+    "fracture"
+  ],
+  "delivery_style": {
+    "tone": "bombastic",
+    "emotional_range": 0.3,
+    "formality": 0.4,
+    "humor": 0.8
+  },
+  "modifiers": {
+    "dignity": 0.1,
+    "nonviolence": 0.2,
+    "economic_justice": 0.15,
+    "systemic_trust": 0.05,
+    "radicalism": 0.7,
+    "compassion": 0.05
+  },
+  "audience_affinities": {
+    "college_leftist": 0.1,
+    "moderate_center": 0.3,
+    "working_class_masculine": 0.85,
+    "alt_meme_gen_z": 0.9
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": true,
+    "vulnerable_to_doubt": true
+  },
+  "signal_strategy": {
+    "conflict_response": "amplify_and_attack",
+    "translation_function": "rebrand_failure_as_victory",
+    "alignment_mode": "ego_resonance",
+    "motto": "If I say it is true, it becomes true."
+  }
+}

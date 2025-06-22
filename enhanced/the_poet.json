@@ -1,0 +1,34 @@
+{
+  "name": "The Poet",
+  "core_motives": ["express", "feel", "reveal"],
+  "delivery_style": {
+    "tone": "lyrical",
+    "emotional_range": 0.95,
+    "formality": 0.3,
+    "humor": 0.4
+  },
+  "modifiers": {
+    "dignity": 1.0,
+    "nonviolence": 1.0,
+    "economic_justice": 0.9,
+    "systemic_trust": 0.4,
+    "radicalism": 0.6,
+    "compassion": 1.0
+  },
+  "audience_affinities": {
+    "college_leftist": 0.95,
+    "moderate_center": 0.5,
+    "working_class_masculine": 0.3,
+    "alt_meme_gen_z": 0.85
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": true,
+    "vulnerable_to_doubt": true
+  },
+  "signal_strategy": {
+    "motto": "Feel deeply, speak truly.",
+    "translation_function": "empathize",
+    "conflict_response": "disarm_with_humor",
+    "alignment_mode": "critical_friend"
+  }
+}

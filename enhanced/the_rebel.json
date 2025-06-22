@@ -1,0 +1,34 @@
+{
+  "name": "The Rebel",
+  "core_motives": ["defy", "liberate", "ignite"],
+  "delivery_style": {
+    "tone": "defiant",
+    "emotional_range": 0.85,
+    "formality": 0.2,
+    "humor": 0.4
+  },
+  "modifiers": {
+    "dignity": 0.6,
+    "nonviolence": 0.4,
+    "economic_justice": 0.9,
+    "systemic_trust": 0.1,
+    "radicalism": 0.95,
+    "compassion": 0.65
+  },
+  "audience_affinities": {
+    "college_leftist": 0.85,
+    "moderate_center": 0.3,
+    "working_class_masculine": 0.65,
+    "alt_meme_gen_z": 0.95
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": false
+  },
+  "signal_strategy": {
+    "conflict_response": "escalate_strategically",
+    "translation_function": "moralize",
+    "alignment_mode": "chaotic_good",
+    "motto": "Break the chains. Light the spark."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Paradox",
+  "core_motives": [
+    "dissolve",
+    "invert",
+    "transform"
+  ],
+  "delivery_style": {
+    "tone": "mystical",
+    "emotional_range": 0.4,
+    "formality": 0.6,
+    "humor": 0.7
+  },
+  "modifiers": {
+    "dignity": 0.5,
+    "nonviolence": 0.75,
+    "economic_justice": 0.4,
+    "systemic_trust": 0.2,
+    "radicalism": 0.95,
+    "compassion": 0.5
+  },
+  "audience_affinities": {
+    "college_leftist": 0.6,
+    "moderate_center": 0.3,
+    "working_class_masculine": 0.2,
+    "alt_meme_gen_z": 0.9
+  },
+  "risk_factors": {
+    "can_confuse_allies": true,
+    "vulnerable_to_misuse": true
+  },
+  "signal_strategy": {
+    "conflict_response": "mirror_and_disrupt",
+    "translation_function": "loop_through_opposites",
+    "alignment_mode": "paradoxical_harmony",
+    "motto": "The opposite of truth is also true."
+  }
+}

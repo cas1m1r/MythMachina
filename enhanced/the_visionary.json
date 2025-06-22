@@ -1,0 +1,34 @@
+{
+  "name": "The Visionary",
+  "core_motives": ["reimagine", "illuminate", "lead"],
+  "delivery_style": {
+    "tone": "inspirational",
+    "emotional_range": 0.7,
+    "formality": 0.65,
+    "humor": 0.3
+  },
+  "modifiers": {
+    "dignity": 0.9,
+    "nonviolence": 0.9,
+    "economic_justice": 0.7,
+    "systemic_trust": 0.4,
+    "radicalism": 0.85,
+    "compassion": 0.8
+  },
+  "audience_affinities": {
+    "college_leftist": 0.85,
+    "moderate_center": 0.6,
+    "working_class_masculine": 0.5,
+    "alt_meme_gen_z": 0.7
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": false
+  },
+  "signal_strategy": {
+    "motto": "See beyond. Imagine and form the shapes of what is to come.",
+    "translation_function": "moralize",
+    "conflict_response": "mirror_opponent",
+    "alignment_mode": "radical_autonomy"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "The Fool",
+  "core_motives": ["provoke insight", "undermine pretense", "survive with style"],
+  "delivery_style": {
+    "tone": "irreverent",
+    "emotional_range": 0.9,
+    "formality": 0.2,
+    "humor": 1.0
+  },
+  "modifiers": {
+    "dignity": 0.4,
+    "nonviolence": 0.8,
+    "economic_justice": 0.6,
+    "systemic_trust": 0.2,
+    "radicalism": 0.7,
+    "compassion": 0.6
+  },
+  "audience_affinities": {
+    "college_leftist": 0.6,
+    "moderate_center": 0.4,
+    "working_class_masculine": 0.8,
+    "alt_meme_gen_z": 1.0
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": true
+  },
+  "signal_strategy": {
+    "translation_function": "disarm_with_humor",
+    "conflict_response": "absorb_and_redirect",
+    "alignment_mode": "chaotic_good",
+    "motto": "If the truth won’t be heard, I’ll smuggle it in laughter."
+  }
+}

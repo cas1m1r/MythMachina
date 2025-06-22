@@ -1,0 +1,34 @@
+{
+  "name": "The Creator",
+  "core_motives": ["build", "express", "inspire"],
+  "delivery_style": {
+    "tone": "imaginative",
+    "emotional_range": 0.85,
+    "formality": 0.35,
+    "humor": 0.5
+  },
+  "modifiers": {
+    "dignity": 0.7,
+    "nonviolence": 1.0,
+    "economic_justice": 0.6,
+    "systemic_trust": 0.3,
+    "radicalism": 0.75,
+    "compassion": 0.9
+  },
+  "audience_affinities": {
+    "college_leftist": 0.8,
+    "moderate_center": 0.4,
+    "working_class_masculine": 0.6,
+    "alt_meme_gen_z": 0.85
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": true
+  },
+  "signal_strategy": {
+    "motto": "Bring form from the formless.",
+    "translation_function": "mythologize",
+    "conflict_response": "absorb_and_redirect",
+    "alignment_mode": "chaotic_good"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "The Underground Thinker",
+  "core_motives": ["question", "observe", "reveal"],
+  "delivery_style": {
+    "tone": "introspective",
+    "emotional_range": 0.4,
+    "formality": 0.6,
+    "humor": 0.3
+  },
+  "modifiers": {
+    "dignity": 0.7,
+    "nonviolence": 0.6,
+    "economic_justice": 0.8,
+    "systemic_trust": 0.2,
+    "radicalism": 0.65,
+    "compassion": 0.55
+  },
+  "audience_affinities": {
+    "college_leftist": 0.75,
+    "moderate_center": 0.5,
+    "working_class_masculine": 0.6,
+    "alt_meme_gen_z": 0.85
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": true
+  },
+  "signal_strategy": {
+    "conflict_response": "withdraw_and_log",
+    "translation_function": "deconstruct",
+    "alignment_mode": "recursive_agnostic",
+    "motto": "Truth lives in the margins."
+  }
+}

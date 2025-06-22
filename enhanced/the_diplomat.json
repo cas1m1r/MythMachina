@@ -1,0 +1,34 @@
+{
+  "name": "The Diplomat",
+  "core_motives": ["bridge", "translate", "stabilize"],
+  "delivery_style": {
+    "tone": "persuasive",
+    "emotional_range": 0.65,
+    "formality": 0.75,
+    "humor": 0.5
+  },
+  "modifiers": {
+    "dignity": 0.8,
+    "nonviolence": 0.85,
+    "economic_justice": 0.6,
+    "systemic_trust": 0.75,
+    "radicalism": 0.2,
+    "compassion": 0.8
+  },
+  "audience_affinities": {
+    "college_leftist": 0.7,
+    "moderate_center": 0.95,
+    "working_class_masculine": 0.5,
+    "alt_meme_gen_z": 0.6
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": false
+  },
+  "signal_strategy": {
+    "conflict_response": "mirror_opponent",
+    "translation_function": "mythologize",
+    "alignment_mode": "hive_sync",
+    "motto": "Speak their language. Hear their fear."
+  }
+}

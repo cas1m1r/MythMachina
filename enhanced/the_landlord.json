@@ -1,0 +1,34 @@
+{
+  "name": "The Landlord",
+  "core_motives": ["maintain control", "preserve hierarchy", "defend ownership"],
+  "delivery_style": {
+    "tone": "authoritative",
+    "emotional_range": 0.3,
+    "formality": 0.8,
+    "humor": 0.1
+  },
+  "modifiers": {
+    "dignity": 0.5,
+    "nonviolence": 0.4,
+    "economic_justice": 0.2,
+    "systemic_trust": 0.8,
+    "radicalism": 0.1,
+    "compassion": 0.3
+  },
+  "audience_affinities": {
+    "college_leftist": 0.2,
+    "moderate_center": 0.6,
+    "working_class_masculine": 0.5,
+    "alt_meme_gen_z": 0.3
+  },
+  "risk_factors": {
+    "can_misread_sarcasm": false,
+    "vulnerable_to_doubt": false
+  },
+  "signal_strategy": {
+    "translation_function": "moralize",
+    "conflict_response": "mirror_opponent",
+    "alignment_mode": "hive_sync",
+    "motto": "Stability is earned, and mine is not your burden."
+  }
+}
